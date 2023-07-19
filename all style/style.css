@@ -195,6 +195,19 @@ background-clip: text;
    
 }
 
+/* main model 1 style */
+
+.main-section-model-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 260px;
+    margin-top: 120px;
+}
+.direction{
+    direction: rtl;
+}
+
 /* ______________________________________________________________ */
 
 @media screen and (max-width:576px) {
